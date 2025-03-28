@@ -1,5 +1,8 @@
-# Relatório de Extensão
-## Enzo Santin da Silveira
+#  Relatório de Extensão
+**Enzo Santin da Silveira**
+
+Este relatório tem como objetivo apresentar as atividades realizadas e conhecimentos adquiridos, indivíduo e coletivamente, na disciplina de *Práticas Extensionistas na Educação em Computação*.
+
 
 Listas com - ou *.
 
