@@ -11,6 +11,7 @@ Foi uma surpresa para mim visto que até então a informação que eu tinha, tan
 Não pensei muito e decidi me inscrever para a cadeira, pois iria conseguir aprofundar meus conhecimentos em práticas extensionistas assim como conseguir uma alavancada nas minhas horas, visto que o total de horas de extensão necessárias para a graduação são 330h. 
 
 ## Semana 1
+###  12/03 e 14/03
 O início da cadeira foi interessante visto que não se sabia ao certo como iria decorrer a disciplina, mas fomos muito bem recebidos. Realizamos uma dinâmica que servia dois propósitos importantes nessa etapa: Conhecer os colegas e conhecer a disciplina. 
 
 Ela desenvolveu-se de maneira simples: Um aluno voluntário ia até o quadro e desenhava seu retrato com o nome, e após, realizaria uma pergunta para a professora.
@@ -30,8 +31,43 @@ Na aula seguinte, cada grupo trouxe sua pesquisa, e a sobre o livro foi bem impa
  - Impacto e transformação social
 
 ## Semana 2
-- Visita Jardim botanico
+### 19/03 e 21/03
+Em nossa segunda semana de aula, trocamos experiências extensionistas assim como fomos apresentados a projetos. Foi realizada uma dinâmica na qual o discente escolheria pesquisar sobre um projeto extensionista ou contar como foi alguma em que tal participou. Compartilhei minhas impressões da extensão que realizei com o PET-CC, em que fui a uma escola no Pains apresentar uma aula sobre computação, abordando conceitos como laços e condicionais, assim como monitorar os alunos nos desafios que propusemos a eles. 
+
+Na aula pude descobrir também sobre a variedade de projetos que existem não só na UFSM, mas também em outras universidades do país. 
+
+Ao final da aula planejamos nossa visita ao Jardim Botânico da UFSM. 
+
+No dia da visita, nossa turma pode descobrir a vasta extensão do Jardim assim como sua variedade de espécies.  Além disso, e principalmente, pudemos ouvir da diretora, Simone Messina, as dificuldades que o Jardim enfrenta e necessidades atuais do local com objetivo de torná-lo mais atrativo para turistas e mais automatizado.
+
+Dentre as lacunas funcionais do Jardim, estão:
+
+ - Necessidade de existirem plaquinhas nas plantas guiando os usuários e levando-o conhecimentos sobre a mesma
+ - Ausência de uma base de dados dedicada
+ - Falta de softwares interativos com o usuário, como site e aplicativo
+
+Mais tarde, estaria começando um projeto em auxílio ao Jardim Botânico com objetivo de superar estas barreiras.
+
 ## Semana 3
-- reflexao
+### 23/03 e 28/03
+Na terceira semana, discutimos as necessidades do Jardim após visitá-lo, compartilhamos opiniões sobre como aplicar as ideias compartilhadas conosco pela diretora e começamos o desenvolvimento de relatórios pessoais (como esse) abordando experiências e aprendizados que tivemos nessa disciplina.
+
+## Semana 4
+### 02/04 e 04/04
+Na quarta semana, um grupo voluntariado na semana passada apresentou à turma a proposta da BNCC, a Base Nacional Comum Curricular, na qual discutiram as propostas criadas pelo Ministério da Educação na área da computação, buscando levar letramento digital às escolas públicas e privadas do país, abordando desde atividades lúdicas introduzindo as crianças aos computadores propriamente ditos até conceitos mais técnicos como grafos.
+
+## Semana 5
+### 09/04 e 11/04
+Na quinta semana, botamos a mão na massa.
+
+Na aula de quarta-feira, decidimos que rumo tomaria a disciplina, e, para isso, definimos 3 grupos:
+
+ - Jardim Botânico
+ - BNCC
+ - Livre
+
+Estes grupos foram separados de modo que cada um começasse a elaborar um projeto em sua área , e, o "livre", estaria encarregado de buscar um novo possível projeto para ser realizado nessa disciplina.
+
+No fim da classe, conversamos com a prof. sobre quais tarefas iríamos realizar no projeto e....
 
  
