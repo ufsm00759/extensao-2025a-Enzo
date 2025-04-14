@@ -12,7 +12,7 @@ Não pensei muito e decidi me inscrever para a cadeira, pois iria conseguir apro
 
 ## Semana 1
 ###  12/03 e 14/03
-O início da cadeira foi interessante visto que não se sabia ao certo como iria decorrer a disciplina, mas fomos muito bem recebidos. Realizamos uma dinâmica que servia dois propósitos importantes nessa etapa: Conhecer os colegas e conhecer a disciplina. 
+O início da cadeira foi interessante visto que não se sabia ao certo como iria decorrer a disciplina, mas fomos muito bem recebidos pela professora Andrea Charão. Realizamos uma dinâmica que servia dois propósitos importantes nessa etapa: Conhecer os colegas e conhecer a disciplina. 
 
 Ela desenvolveu-se de maneira simples: Um aluno voluntário ia até o quadro e desenhava seu retrato com o nome, e após, realizaria uma pergunta para a professora.
 
@@ -58,7 +58,7 @@ Na quarta semana, um grupo voluntariado na semana passada apresentou à turma a 
 
 ## Semana 5
 ### 09/04 e 11/04
-Na quinta semana, botamos a mão na massa.
+Na quinta semana, foi hora de botar a mão na massa.
 
 Na aula de quarta-feira, decidimos que rumo tomaria a disciplina, e, para isso, definimos 3 grupos:
 
@@ -68,6 +68,23 @@ Na aula de quarta-feira, decidimos que rumo tomaria a disciplina, e, para isso, 
 
 Estes grupos foram separados de modo que cada um começasse a elaborar um projeto em sua área , e, o "livre", estaria encarregado de buscar um novo possível projeto para ser realizado nessa disciplina.
 
-No fim da classe, conversamos com a prof. sobre quais tarefas iríamos realizar no projeto e....
+No fim da classe, conversamos com a prof. sobre quais tarefas iríamos realizar no nosso projeto. Para dar início, decidimos realizar um diagrama conjunto entre os membros da equipe para bem-definir o esqueleto do projeto, as dúvidas que precisavam ser sanadas e quais membros ficariam responsáveis por quais setores.
 
+O projeto neste momento incluía o seguinte:
+
+ - Criação de uma base de dados com as plantas do Jardim Botânico
  
+ - Criação de um site/aplicativo interativo com o qual os usuários irão usar como uma trilha interativa, contendo informações diversas 
+
+- Produzir placas, de maneira automatizada, que contenham algum tipo de código rastreável e que serão dispostas em plantas no Jardim
+
+- Criar um sistema de registro de visitantes 
+
+Levamos à aula de sexta-feira nosso diagrama e debatemos a viabilidade de realizar tudo o que planejamos e do jeito que planejamos, e pude perceber que haviam diversas partes do projeto nas quais era crucial o diálogo com a diretora do Jardim. Por isso, sugeri à prof. que realizássemos uma reunião com ela o quanto antes, a fim de obtermos mais detalhes em que caminhos e abordagens seguir, com o objetivo de unir a utilidade e viabilidade em nosso projeto.
+
+A professora conseguiu marcar para nós uma reunião exatamente na aula seguinte.
+
+## Semana 6
+### 16/04 e 18/04
+
+em breve
