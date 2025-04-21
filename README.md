@@ -85,6 +85,10 @@ Levamos à aula de sexta-feira nosso diagrama e debatemos a viabilidade de reali
 A professora conseguiu marcar para nós uma reunião exatamente na aula seguinte.
 
 ## Semana 6
-### 16/04 e 18/04
+### 16/04
+Nesta semana apenas realizamos nossa reunião no Jardim Botânico, visto que a sexta-feira dessa semana era feriado.
 
-em breve
+Discutimos com a diretora quais partes de nosso projeto deveriam ser alteradas para evitar possiveis desalinhamentos de objetivos tanto por questões de evitar forçar adaptações a novos sistemas e fazer uso do máximo de recursos já estabelecidos no Jardim. 
+
+## Semana 7
+### 23/04 e 25/04
