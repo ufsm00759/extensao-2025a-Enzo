@@ -93,4 +93,5 @@ Discutimos com a diretora quais partes de nosso projeto deveriam ser alteradas p
 ## Semana 7
 ### 23/04 e 25/04
 Na sétima semana, comecei criando o repositório do projeto, e adicionei os arquivos de fonte e dois pdfs com o modelo de placa contendo e não contendo as informações exemplo. Optei também por buscar desenvolver o sistema em Python para obter conhecimento e habilidades práticas nessa linguagem atualmente bastante relevante. Para isso pesquisei implementações de edições de imagens automatizadas e também alguma biblioteca para desenvolver a parte de interação com o usuário.
+
 As pesquisas me deram o nome que eu já conhecia, o TKinter.
