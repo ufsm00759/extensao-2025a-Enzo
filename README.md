@@ -88,7 +88,7 @@ A professora conseguiu marcar para nós uma reunião exatamente na aula seguinte
 ### 16/04
 Nesta semana apenas realizamos nossa reunião no Jardim Botânico, visto que a sexta-feira dessa semana era feriado.
 
-Discutimos com a diretora quais partes de nosso projeto deveriam ser alteradas para evitar possiveis desalinhamentos de objetivos tanto por questões de evitar forçar adaptações a novos sistemas e fazer uso do máximo de recursos já estabelecidos no Jardim. 
+Discutimos com a diretora quais partes de nosso projeto deveriam ser alteradas para evitar possiveis desalinhamentos de objetivos tanto por questões de evitar forçar adaptações a novos sistemas e fazer uso do máximo de recursos já estabelecidos no Jardim. Uma das ideias que tivemos que alterar bastante foi a criação da base de dados, visto que decidiu-se focar no uso da base de dados já existente do Jardim, implementada no Google Sheets. Para minha área, das plaquinnhas, preciso buscar métodos de importar as informações diretamente desta planilha, de modo que consiga estabelecer comunicação com meu aplicativo de criação de placas, já que este precisa automaticamente gerar a placa e buscar nome comum e científico, código e gerar um QR Code.
 
 ## Semana 7
 ### 23/04 e 25/04
