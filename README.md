@@ -100,7 +100,7 @@ Comecei a programar a parte da geração da plaquinha. Usei temporariamente vari
 
 Alem disso, realizei varios calculos (e tive certa dor de cabeça) em relação às posições das caixas de texto, ou seja, os objetos invisiveis que mostram o texto na placa, pois a biblioteca não permite alterar a margem dentro da caixa de texto, então tive que adaptar o código de espaçamento para ser um múltiplo do valor da fonte.
 
-Depois de 4h não seguidas trabalhando, completei o código chamável por função com a finalidade de criar um arquivo pdf contendo a placa e dispondo os parâmetros, com excessão da URL, que será implementada no QR Code em breve . Os parâmetros são:
+Depois de 4h não seguidas trabalhando, completei o código chamável por função com a finalidade de criar um arquivo pdf contendo a placa e dispondo os parâmetros, com excessão da URL, que será implementada no QR Code em breve. Os parâmetros são:
 - Nome popular
 - Nome científico
 - Código
