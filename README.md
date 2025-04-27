@@ -95,3 +95,14 @@ Discutimos com a diretora quais partes de nosso projeto deveriam ser alteradas p
 Na sétima semana, comecei criando o repositório do projeto, e adicionei os arquivos de fonte e dois pdfs com o modelo de placa contendo e não contendo as informações exemplo. Optei também por buscar desenvolver o sistema em Python para obter conhecimento e habilidades práticas nessa linguagem atualmente bastante relevante. Para isso pesquisei implementações de edições de imagens automatizadas e também alguma biblioteca para desenvolver a parte de interação com o usuário.
 
 Para a parte da GUI, as pesquisas me deram o nome que eu já conhecia, o TKinter. Ainda aprofundarei mais as pesquisas na parte do processamento dos dados e imagem, creio que as opções E as estratégias são bem mais variadas.
+
+Comecei a programar a parte da geração da plaquinha. Usei temporariamente variaveis fixas para os nomes, url do qrcode e codigo. Após pesquisa observei que a melhor opção para editar pdf em python seria a biblioteca pymupdf, que de início operou conforme o previsto até eu chegar na parte de alterar a fonte dos textos inseridos, coisa que o ChatGPT disse que seria impossível nesta biblioteca, pois ela só operar com fontes selecionadas. Eu precisava usar as fontes OpenSans das quais tenho os arquivos ttf, então não desisti e fui pesquisar em fóruns e, para minha surpresa, havia sim um jeito de usar os arquivos .ttf. Após isso, notei que não poderia usar modificadores para bold e italic da versão da fonte que eu baixei, então troquei os arquivos originais por arquivos específicos para a fonte em negrito e a versão "thin"em itálico, as mesmas que usei no protótipo feito no Canva.
+
+Alem disso, realizei varios calculos (e tive certa dor de cabeça) em relação às posições das caixas de texto, ou seja, os objetos invisiveis que mostram o texto na placa, pois a biblioteca não permite alterar a margem dentro da caixa de texto, então tive que adaptar o código de espaçamento para ser um múltiplo do valor da fonte.
+
+Depois de 4h não seguidas trabalhando, completei o código chamável por função e com parâmetros:
+- Nome popular
+- Nome científico
+- Código
+- URL
+com a finalidade de criar um arquivo pdf contendo a placa e dispondo tais parâmetros, com excessão da URL, que será implementada no QR Code.
