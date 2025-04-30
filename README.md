@@ -106,4 +106,10 @@ Depois de 4h não seguidas trabalhando, completei o código chamável por funç�
 - Código
 - URL
 
+Total de horas trabalhadas essa semana: 4
 
+## Semana 8
+### 30/04
+Comecei a semana modularizando melhor o código que desenvolvi, criando as funções carrega_fontes(), gera_caixa_texto(). Além disso, fui atrás de como extrair uma imagem vetorial do documento de identidade visual do Jardim Botânico.
+
+Total de horas trabalhadas essa semana: 1
