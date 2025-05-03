@@ -110,6 +110,8 @@ Total de horas trabalhadas essa semana: 4
 
 ## Semana 8
 ### 30/04
-Comecei a semana modularizando melhor o código que desenvolvi, criando as funções carrega_fontes(), gera_caixa_texto(). Além disso, fui atrás de como extrair uma imagem vetorial do documento de identidade visual do Jardim Botânico.
+Comecei a semana modularizando melhor o código que desenvolvi, criando a função gera_caixa_texto(). Além disso, fui atrás de como extrair uma imagem vetorial do documento de identidade visual do Jardim Botânico.
+Na reunião que tivemos essa semana, apresentei à prof como estava meu código e conversamos sobre a necessidade de fazer um teste com vários tamanhos e cores de placas de modo a testar limitações nestas variáveis.
+De volta ao trabalho, finalmente implementei a geração de QRCode ao código, ou seja, a criação semiautomática de plaquinhas no modelo e cor original do protótipo já era possível. Além disso, desenvolvi uma função responsável por permitir textos maiores que o limite da caixa de texto de aparecerem escritos na placa. Ou seja, uma função que testa se o texto cabe por meio de decrescer unitáriamente e repetidamente o tamanho da fonte. Para implementar com corretamente também precisei alterar a lógica da posição das caixas, que estavam usando os valores fixos das fontes. Agora as posições das caixas são calculadas relativas ao tamanho da fonte da caixa impressa acima.
 
-Total de horas trabalhadas essa semana: 1
+Total de horas trabalhadas essa semana: 3
