@@ -115,3 +115,17 @@ Na reunião que tivemos essa semana, apresentei à prof como estava meu código 
 De volta ao trabalho, finalmente implementei a geração de QRCode ao código, ou seja, a criação semiautomática de plaquinhas no modelo e cor original do protótipo já era possível. Além disso, desenvolvi uma função responsável por permitir textos maiores que o limite da caixa de texto de aparecerem escritos na placa. Ou seja, uma função que testa se o texto cabe por meio de decrescer unitáriamente e repetidamente o tamanho da fonte. Para implementar com corretamente também precisei alterar a lógica da posição das caixas, que estavam usando os valores fixos das fontes. Agora as posições das caixas são calculadas relativas ao tamanho da fonte da caixa impressa acima.
 
 Total de horas trabalhadas essa semana: 3
+
+## Semana 9
+### 09/05
+Nessa semana, tinhamos previsto uma visita ao Jardim para testar a usabilidade dos QRCodes na prática. Para isso, imprimi alguns testes com qrcodes nas cores da placa e em preto-e-branco, em diversos tamanhos. Além disso, planejei outros 2 modelos de placa (layouts), um retangular horizontal com o qrcode à esquerda, e outro retangular vertical com o qrcode em tamanho grande abaixo das informações. Imprimi eles na folha também, com 15cm de lado. Todavia, após fortes chuvas na quinta-feira, que seguiram na sexta de manhã, tivemos que alterar a visita para uma reunião online com a Diretora do Jardim. Nossa equipe apresentou como estava o andamento do projeto e o que realizamos, e recebemos elogios.
+
+Total de horas trabalhadas essa semana: 1
+
+## Semana 10
+### 14/05
+Na décima semana, implementei as versões alternativas das placas no código, por meio de um parâmetro 'layout' na chamada da função. Tive que fazer adaptações nos novos códigos em relação ao da placa original visto que os textos deveriam estar em posições com âncoras diferentes das originais, e, além disso, para o layout da placa com o qrcode grande, tive que calcular uma "descida" do titulo em caso de ele ser muito grande. O titulo ser grande faz com que a fonte diminua automaticamente, porém, isso estava fazendo com que o texto ficasse grudado à margem de cima, o que nesta versão da placa em específico tornou-se um problema. Para isso criei uma lógica envolvendo o tamanho máximo original do título e o novo tamanho da fonte após ser calculado o tamanho ideal.
+
+Total de horas trabalhadas essa semana: 2
+
+
