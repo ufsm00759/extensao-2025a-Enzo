@@ -135,9 +135,13 @@ Total de horas trabalhadas essa semana: 3
 ## Semana 11
 ### 21/05
 Na décima primeira semana, planejamos nossa apresentação no domingo (25). Separamos 10 plantas específicas para imprimir suas plaquinhas com qrcodes levando a páginais funcionais. Além disso, optamos por fazer uma atividade lúdica envolvendo as pessoas presentes no dia, que deverão tirar foto das dez plaquinhas no Jardim e levar as fotos até nos para ganhar um bombom.
+
 Na parte do código, fiz grande desenvolvimento na parte do código da interface. Para implementar o auto-preenchimento, separei a interface em duas guias, uma guia manual onde os 4 campos são preenchidos manualmente, e uma guia que aceita pesquisa com o ID. após inserção do id e clique no botão abaixo, o algortimo vai até a base de dados no Google Sheets do Jardim Botânico e obtém o nome científico da planta. Além disso, gera o link adequado. Porém, resta o nome popular, que não estão preenchidos na planilha original.
 Para tentar resolver o problema, implementei um algoritmo que faz uma pesquisa na Wikidata partindo do nome científico. Essa abordagem não demonstrou muita eficiência, porém existem vezes que ela acerta. Para isso, permiti a edição do nome popular manual nessa guia (nome científico e link não podem ser alterados nessa guia). Na maioria dos casos o algoritmo preenche o nome popular com o nome cientifico, que é o termo retornado da pesquisa no wikidata. Em casos que o item na tabela não está preenchido por inteiro o nome popular é preenchido com "Desconhecido".
+
 Vale ressaltar que como o acesso à base de dados é feito online, podem ser feitas alterações por parte do Jardim na tabela que manterão em funcionamento o programa.
+
+Na quinta-feira, meu gurpo oragnizou-se para irmos até o Jardim colocar as plaquinhas nas árvores escolhidas. Fizemos furos nas placas usando uma furadeira e prendemos elas nas árvores usando arame.
 
 Total de horas trabalhadas essa semana: 4
 
