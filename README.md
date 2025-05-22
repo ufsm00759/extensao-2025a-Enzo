@@ -143,6 +143,6 @@ Vale ressaltar que como o acesso à base de dados é feito online, podem ser fei
 
 Na quinta-feira, meu gurpo oragnizou-se para irmos até o Jardim colocar as plaquinhas nas árvores escolhidas. Fizemos furos nas placas usando uma furadeira e prendemos elas nas árvores usando arame.
 
-Total de horas trabalhadas essa semana: 4
+Total de horas trabalhadas essa semana: 4 + 1 instalando as plaquinhas
 
 
