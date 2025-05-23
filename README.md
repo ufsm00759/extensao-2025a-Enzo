@@ -143,6 +143,8 @@ Vale ressaltar que como o acesso à base de dados é feito online, podem ser fei
 
 Na quinta-feira, meu gurpo oragnizou-se para irmos até o Jardim colocar as plaquinhas nas árvores escolhidas. Fizemos furos nas placas usando uma furadeira e prendemos elas nas árvores usando arame.
 
-Total de horas trabalhadas essa semana: 4 + 1 instalando as plaquinhas
+Na sexta-feira, implementei a criação automática de plaquinhas partindo do nome cientifico, operando de maneira semelhante. Além disso, e finalmente, implementei no repositório um ícone para o executável e criei o executável do programa.
+
+Total de horas trabalhadas essa semana: 5 + 1 instalando as plaquinhas
 
 
