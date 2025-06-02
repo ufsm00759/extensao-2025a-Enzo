@@ -147,4 +147,7 @@ Na sexta-feira, implementei a criação automática de plaquinhas partindo do no
 
 Total de horas trabalhadas essa semana: 5 + 1 instalando as plaquinhas
 
+## Semana 12
+### 28/05
+Nessa semana, apenas realizamos um encontro e comentei sobre os problemas que a tabela que usei para os dados do programa possui diversas entradas da mesma espécie e também os ids presentes nas árvores fisicamente não correspondiam com a tabela. Ficou evidente que deveríamos incentivar o pessoal do Jardim a prezar pela integridade dos dados para este projeto e projetos futuros.
 
