@@ -151,3 +151,7 @@ Total de horas trabalhadas essa semana: 5 + 1 instalando as plaquinhas
 ### 28/05
 Nessa semana, apenas realizamos um encontro e comentei sobre os problemas que a tabela que usei para os dados do programa possui diversas entradas da mesma espécie e também os ids presentes nas árvores fisicamente não correspondiam com a tabela. Ficou evidente que deveríamos incentivar o pessoal do Jardim a prezar pela integridade dos dados para este projeto e projetos futuros.
 
+## Semana 13
+### 04/06
+Nessa semana, o subgrupo do site e das plaquinhas produziu uma apresentação de slides para realizar aos responsáveis do Jardim apresentando nossos desenvolvimentos e dificuldades.
+
