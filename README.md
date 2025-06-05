@@ -108,6 +108,8 @@ Depois de 4h não seguidas trabalhando, completei o código chamável por funç�
 
 Total de horas trabalhadas essa semana: 4
 
+Link do repositório: https://github.com/enzosas/plaquinhasJardimBotanico
+
 ## Semana 8
 ### 30/04
 Comecei a semana modularizando melhor o código que desenvolvi, criando a função gera_caixa_texto(). Além disso, fui atrás de como extrair uma imagem vetorial do documento de identidade visual do Jardim Botânico.
