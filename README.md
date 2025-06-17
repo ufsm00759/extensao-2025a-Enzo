@@ -157,3 +157,9 @@ Nessa semana, apenas realizamos um encontro e comentei sobre os problemas que a 
 ### 04/06
 Nessa semana, o subgrupo do site e das plaquinhas produziu uma apresentação de slides para realizar aos responsáveis do Jardim apresentando nossos desenvolvimentos e dificuldades.
 
+## Semana 14
+### 08/06 e 13/06
+Nessa semana, fizemos duas coisas:
+- Participamos do Viva o Campus presencialmente no Jardim Botânico, onde realizamos uma atividade de caça ao tesouro com os visitantes. Propusemos que trouxessem foto de ao menos 3 plaquinhas das 10 que colocamos no Jardim e em troca, receberiam um bombom. 
+- Apresentamos para o pessoal do Jardim o nosso projeto realizado. Discutimos as problemáticas a serem resolvidas e no geral a avaliação que recebemos foi muito positiva.
+
